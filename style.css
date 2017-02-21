@@ -9,6 +9,7 @@ body {
 
 #container {
     margin: 10px;
+    width: 960px;
 }
 
 #left-box {
