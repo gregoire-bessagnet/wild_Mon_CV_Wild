@@ -21,7 +21,7 @@ body {
 #right-box {
     width:600px;
     margin-left: 10px;
-    position: relative;
+    position: absolute;
 
 }
 
