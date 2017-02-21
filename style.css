@@ -17,9 +17,12 @@ left-box {
     background-color: rgb(9,30,45); 
     color: white;
     width:300px;
+    padding: 5px;
 }
 
 right-box {
     width:600px;
+    padding: 5px;
+
 }
 
