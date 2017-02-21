@@ -3,3 +3,7 @@ body {
     margin: auto;
     background-color: rgb(104, 187, 285)
 }
+
+header {
+    margin: 10px;
+}
