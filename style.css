@@ -16,4 +16,6 @@ left-box {
     float: left;
     background-color: rgb(9,30,45); 
     color: white;
+    width:300px;
 }
+
