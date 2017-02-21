@@ -34,5 +34,6 @@ body {
 }
 
 #studies-box {
-  background-color: white;  
+  background-color: white; 
+  padding: 10px; 
 }
