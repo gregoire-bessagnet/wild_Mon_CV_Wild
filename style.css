@@ -11,7 +11,7 @@ container {
     margin: 10px;
 }
 
-left-box {
+#left-box {
     float: left;
     background-color: rgb(9,30,45); 
     color: white;
@@ -19,7 +19,7 @@ left-box {
     padding: 5px;
 }
 
-right-box {
+#right-box {
     width:600px;
     padding: 5px;
 
