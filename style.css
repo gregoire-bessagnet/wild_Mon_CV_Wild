@@ -11,3 +11,9 @@ header {
 container {
     margin: 10px;
 }
+
+left-box {
+    float: left;
+    background-color: rgb(9,30,45); 
+    color: white;
+}
