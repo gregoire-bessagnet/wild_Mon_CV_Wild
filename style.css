@@ -25,6 +25,7 @@ body {
 #right-box {
     width:auto;
     padding: 10px;
+    float: left;
 }
 
 #experiences-box {
