@@ -19,8 +19,7 @@ body {
 }
 
 #right-box {
-    width:600px;
-    margin-left: 10px;
+    width:auto;
 }
 
 #experiences-box {
