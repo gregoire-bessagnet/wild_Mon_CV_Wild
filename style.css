@@ -10,7 +10,6 @@ header {
 
 container {
     margin: 10px;
-    width: 600px;
 }
 
 left-box {
@@ -18,5 +17,9 @@ left-box {
     background-color: rgb(9,30,45); 
     color: white;
     width:300px;
+}
+
+right-box {
+    width:600px;
 }
 
