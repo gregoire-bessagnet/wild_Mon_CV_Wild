@@ -17,15 +17,18 @@ body {
     color: white;
     width:300px;
     padding: 5px;
+    margin: 5px;
 }
 
 #right-box {
     width:600px;
     padding: 5px;
+    margin: 5px;
 
 }
 
 #experiences-box {
     background-color: white;
+    margin: 5px;
 }
 
